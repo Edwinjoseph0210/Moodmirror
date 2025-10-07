@@ -1,0 +1,12 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-multipart==0.0.6
+pydantic==1.10.8
+pillow==9.5.0
+numpy==1.24.3
+python-dotenv==1.0.0
+# Uncomment the following for production implementation
+# transformers==4.30.0
+# torch==2.0.1
+# deepface==0.0.79
+# openai==0.27.8
